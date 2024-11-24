@@ -17,8 +17,10 @@ Welcome to my GitHub profile! I'm Arshia, a passionate frontend developer focuse
 Here are a few projects I'm proud of:
 
 1. [Reduxe-vs-Context](https://github.com/DevoraX/Reduxe-vs-Context)
-2. [Agile Development](https://github.com/DevoraX/What-is-Agile-Development-)
    A to-do list app built with React, showcasing state management using both Redux and Context API.
+   
+2. [Agile Development](https://github.com/DevoraX/What-is-Agile-Development-)
+   Some useful articles may help you to understand Agile Development.
 
 Feel free to explore my repositories for more projects!
 
